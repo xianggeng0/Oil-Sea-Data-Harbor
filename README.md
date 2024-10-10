@@ -1,3 +1,8 @@
+
+## 架构图
+
+![image](https://github.com/user-attachments/assets/987e4351-131f-4a32-b1e8-4866f54fd36d)
+
 ## 项目需求
 
 **目标**：明确项目目标和需求，确保项目方向正确。
