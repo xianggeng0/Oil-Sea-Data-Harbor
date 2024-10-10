@@ -97,7 +97,7 @@
 
 如有任何疑问或需要进一步的帮助，请联系我们：
 
-- 邮箱：xianggeng00@Google.com
+- 邮箱：xianggeng00@google.com
 
 ---
 
